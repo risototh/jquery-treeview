@@ -27,6 +27,7 @@ Takes an unordered list and makes all branches collapsable. The "treeview" class
 ## License
 
 Copyright Jörn Zaefferer (original project)
+
 Fixes to comply with jQuery 3+ by Richard Toth
 
 Released under the MIT license:
