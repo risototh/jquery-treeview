@@ -1,6 +1,3 @@
-### Note that this project is not actively maintained anymore.
-Check out [jqTree](http://mbraak.github.com/jqTree/) for a more up to date plugin.
-
 # jQuery Treeview
 
 Lightweight and flexible transformation of an unordered list into an expandable and collapsable tree, great for unobtrusive navigation enhancements. Supports both location and cookie based persistence.
@@ -29,7 +26,8 @@ Takes an unordered list and makes all branches collapsable. The "treeview" class
 
 ## License
 
-Copyright Jörn Zaefferer
+Copyright Jörn Zaefferer (original project)
+Fixes to comply with jQuery 3+ by Richard Toth
 
 Released under the MIT license:
 * http://www.opensource.org/licenses/mit-license.php

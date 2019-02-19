@@ -1,3 +1,10 @@
+1.5
+---
+* Fixes to comply with jQuery 3.0+
+* Fixed and extension in async loader (open/closed tree item)
+* showLoader item property in async loader
+* Automatic removal of expandability, when empty item set is returned with async loader
+
 1.4.1
 -----
 * Fix for #2360
